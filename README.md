@@ -43,7 +43,7 @@ cd pythonapp<br>![alt text](<./goes_inside_pythoneapp_through_cd.png>)
   ## 9.Access the Application
   public ip : port<br>
   port no -> 5000
-  ![alt text](<./access_of_web.png>)
+  ![alt text](<./access_of_web.png>)<br>
   ## Key Features
 * Deployment on AWS EC2
 * Complete setup from scratch
