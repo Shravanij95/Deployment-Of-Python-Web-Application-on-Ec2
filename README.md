@@ -7,7 +7,7 @@ This project demonstrates how to deploy a Python web application on a cloud serv
 The goal of this project is to gain hands-on experience with cloud computing, Linux commands, and Python environment setup.
 
 ## Architecture Diagram
-![Architecture Diagram](./architecture_diagram.jpeg)
+![](./architecture_diagram.jpeg)
 
 ## Steps I Followed
 ## 1.launching an ec2 instance 
