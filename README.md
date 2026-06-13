@@ -29,7 +29,7 @@ The goal of this project is to gain hands-on experience with cloud computing, Li
  ## 5.Clone the Repository
  git clone url<br>
  ![alt text](<./clone_from_github.png>)
-cd pythonapp![alt text](<imgs/goes inside pythoneapp through cd.png>)
+cd pythonapp![alt text](<./goes_inside_pythoneapp_through_cd.png>)
  ## 6.Create Virtual Environment
  python3 -m venv myenv 
  ![alt text](<./create_virtual_environment.png>)
@@ -39,11 +39,11 @@ cd pythonapp![alt text](<imgs/goes inside pythoneapp through cd.png>)
  ## 8.Install dependencies
  pip install -r requirements.txt<br>
  python3 app.py
-  ![alt text](<imgs/install dependency.png>)
+  ![alt text](<./install_dependency.png>)
   ## 9.Access the Application
   public ip : port<br>
   port no -> 5000
-  ![alt text](<imgs/access of web.png>)
+  ![alt text](<./access_of_web.png>)
   ## Key Features
 * Deployment on AWS EC2
 * Complete setup from scratch
