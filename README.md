@@ -17,28 +17,28 @@ The goal of this project is to gain hands-on experience with cloud computing, Li
  ![alt text](./connect_through_ssh.png)
  ## 3.Installation of PYTHON
  sudo yum update -y<br>
- sudo yum install python3 -y
+ sudo yum install python3 -y<br>
  ![alt text](<./installation_of_python.png>)
  * verify version:<br>
  python3 --version
  ## 4.Installation of pip
- sudo yum install python3-pip -y
+ sudo yum install python3-pip -y<br>
  ![alt text](<./instalation_of_pip.png>)
  * Verify pip:<br>
  pip3 --version
  ## 5.Clone the Repository
  git clone url<br>
  ![alt text](<./clone_from_github.png>)
-cd pythonapp![alt text](<./goes_inside_pythoneapp_through_cd.png>)
+cd pythonapp<br>![alt text](<./goes_inside_pythoneapp_through_cd.png>)
  ## 6.Create Virtual Environment
- python3 -m venv myenv 
+ python3 -m venv myenv <br>
  ![alt text](<./create_virtual_environment.png>)
  ## 7.Activate virtual environment
- bash myenv/bin/activates
- ![alt text](<./run _virtual_environment.png>)
+ bash myenv/bin/activates<br>
+ ![alt text](<./run_virtual_environment.png>)
  ## 8.Install dependencies
  pip install -r requirements.txt<br>
- python3 app.py
+ python3 app.py<br>
   ![alt text](<./install_dependency.png>)
   ## 9.Access the Application
   public ip : port<br>
